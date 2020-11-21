@@ -2,19 +2,19 @@
     "data":
     [
         {
-        "type" : "",
-        "price" : "",
-        "amount" : ""
+        "type" : "Balcony level",
+        "price" : "1170",
+        "amount" : "20"
         },
         {
-        "type" : "",
-        "price" : "",
-        "amount" : ""
+        "type" : "Lower level",
+        "price" : "10434",
+        "amount" : "40"
         },
         {
-        "type" : "",
-        "price" : "",
-        "amount" : ""
+        "type" : "Courtside",
+        "price" : "27777",
+        "amount" : "30"
         }
     ]
 }
