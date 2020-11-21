@@ -3,18 +3,18 @@
     [
         {
         "type" : "Balcony level",
-        "price" : "1170",
-        "amount" : "20"
+        "price" : 1170,
+        "amount" : 20
         },
         {
         "type" : "Lower level",
-        "price" : "10434",
-        "amount" : "40"
+        "price" : 10434,
+        "amount" : 40
         },
         {
         "type" : "Courtside",
-        "price" : "27777",
-        "amount" : "30"
+        "price" : 27777,
+        "amount" : 30
         }
     ]
 }
